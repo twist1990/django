@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-@fvsexauvedmxq7na=36iy_x&mh&#ghy$)417nv(k9gg&zhg7r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['twist1990.pythonanywhere.com']
+ALLOWED_HOSTS = ['twist1990.pythonanywhere.com', '127.0.0.1']
 # Application definition
 
 INSTALLED_APPS = [
